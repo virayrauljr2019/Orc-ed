@@ -1,0 +1,5 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54690:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/raulvirayjr/IdeaProjects/Orc'ed/out/production/Orc'ed Main
+1680.0
+1750.0
+
+Process finished with exit code 0
